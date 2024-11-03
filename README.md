@@ -21,21 +21,21 @@ Scraped_at: Date and time of data scraping.
 Section: Store section where the product is sold (e.g., women’s, men’s).
 
 📌 Key Questions Addressed
-Which product categories drive the highest sales volumes?
-How effective are promotions in boosting sales across different categories?
-What are the best-selling products and brands?
-Do specific price ranges correlate with higher sales?
-How do sales vary by section (e.g., women’s, men’s) and season?
-Does product position in the catalog or layout influence sales?
+1. Which product categories drive the highest sales volumes?
+2. How effective are promotions in boosting sales across different categories?
+3. What are the best-selling products and brands?
+4. Do specific price ranges correlate with higher sales?
+5. How do sales vary by section (e.g., women’s, men’s) and season?
+6. Does product position in the catalog or layout influence sales?
 
 🛠️ SQL Queries and Analysis
 Key SQL queries include:
 
-Sales by Category: Aggregates total sales by each product category.
-Promotion Impact Analysis: Measures the increase in sales when promotions are applied.
-Best-Selling Products: Ranks products by sales volume to identify top sellers.
-Sales by Price Range: Segments sales data into different price ranges to understand price sensitivity.
-Seasonal Trends: Analyzes sales trends to uncover high-demand seasons.
+- Sales by Category: Aggregates total sales by each product category.
+- Promotion Impact Analysis: Measures the increase in sales when promotions are applied.
+- Best-Selling Products: Ranks products by sales volume to identify top sellers.
+- Sales by Price Range: Segments sales data into different price ranges to understand price sensitivity.
+- Seasonal Trends: Analyzes sales trends to uncover high-demand seasons.
 
 💡 Insights & Conclusion
 This project provides valuable insights for inventory and promotional strategy at Zara. By examining sales drivers and patterns, the analysis highlights areas for growth and optimization, especially regarding promotional effectiveness and product placement.
