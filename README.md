@@ -36,7 +36,6 @@ Promotion Impact Analysis: Measures the increase in sales when promotions are ap
 Best-Selling Products: Ranks products by sales volume to identify top sellers.
 Sales by Price Range: Segments sales data into different price ranges to understand price sensitivity.
 Seasonal Trends: Analyzes sales trends to uncover high-demand seasons.
-Each query is documented with explanations and insights derived from the results.
 
 💡 Insights & Conclusion
 This project provides valuable insights for inventory and promotional strategy at Zara. By examining sales drivers and patterns, the analysis highlights areas for growth and optimization, especially regarding promotional effectiveness and product placement.
